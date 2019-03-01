@@ -1,5 +1,5 @@
-The program is template for 3rd task of lab 3 that students are required to
- complete in a lab. 
+The program is template for 3rd task of exercise 3 that students are required to
+ complete in a exercise. 
 
 Write a program using C-standard I/O library in which main() function receives a file name, search string and replace string via command line arguments
 
@@ -22,10 +22,10 @@ Example of myreplace
 
 if the string found is :
 
-	This Lab is SP Lab 1.
+	This exercise is SP exercise 1.
 
 
-and you have to replace Lab with exercise. 
+and you have to replace exercise with exercise. 
 than answer should be
 
- :	This exercise is SP Lab 1.
+ :	This exercise is SP exercise 1.
